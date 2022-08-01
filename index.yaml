@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-08-01T06:04:08.728396685Z"
+    description: A Helm chart for Kubernetes
+    digest: 6f68a618069b7570fa244c79b506e87d6ed4d892ee7ce5404fff24c3949f6456
+    name: mychart
+    type: application
+    urls:
+    - https://activiti.github.io/activiti-cloud-helm-charts/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-01T06:04:08.726950601Z"
